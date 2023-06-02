@@ -1,0 +1,14 @@
+{
+    "name": "firesphere/slick-element",
+    "type": "silverstripe-theme",
+    "license": "BSD-3-Clause",
+    "require": {
+        "composer/installers": "*",
+        "silverstripe/framework": ">=4"
+    },
+    "extra": {
+        "expose": [
+            "client/dist"
+        ]
+    }
+}

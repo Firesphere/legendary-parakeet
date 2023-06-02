@@ -1,0 +1,11 @@
+---
+name: slick_config
+---
+Firesphere\Slick\Models\SlickConfiguration:
+  settings:
+    carousel:
+      infinite : true
+      adaptiveHeight : false
+      autoplay : true
+      autoplaySpeed : 3000
+      arrows : true
